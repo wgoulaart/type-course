@@ -1,0 +1,9 @@
+{
+  "name": "type-course",
+  "version": "1.0.0",
+  "description": "Mini-curso typescript",
+  "main": "index.js",
+  "repository": "https://github.com/wgoulaart/type-course.git",
+  "author": "William Goulart <williamgoulart1@hotmail.com>",
+  "license": "MIT"
+}
